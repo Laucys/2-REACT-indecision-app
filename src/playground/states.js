@@ -114,8 +114,6 @@ class Option extends React.Component {
   }
 }
 
-
-
 class AddOption extends React.Component {
 
   constructor(props) {
